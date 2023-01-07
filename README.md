@@ -16,7 +16,7 @@ page](https://github.com/BV-BRC/BV-BRC-CLI/releases). New
 releases typically come out for MacOS first. We currently also support
 Windows and Debian/Ubuntu and CentOS Linux.
 
-The PATRIC CLI tutorial is [available here](https://www.bv-brc.org/docs/cli_tutorial/index.html).
+The BV-BRC CLI tutorial is [available here](https://www.bv-brc.org/docs/cli_tutorial/index.html).
 
 If you need a basic command line tutorial, you can [find one here](https://static-bcrf.biochem.wisc.edu/tutorials/unix/survival_command/Survival_Command-line.html).
 
